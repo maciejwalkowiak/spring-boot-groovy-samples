@@ -14,3 +14,4 @@ Samples and snippets for quick hacking with Spring Boot &amp; Groovy using Sprin
 
 ## Samples list
 - [Spring AMQP Listener](https://github.com/maciejwalkowiak/spring-boot-groovy-samples/blob/master/spring-amqp-listener/app.groovy)
+- [Spring MVC Rest Controller](https://github.com/maciejwalkowiak/spring-boot-groovy-samples/blob/master/spring-mvc-rest-controller/app.groovy)
