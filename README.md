@@ -5,6 +5,12 @@
 <img src="http://groovy-lang.org/img/groovy-logo.png" height="100">
 </p>
 
-Samples and snippets for quick hacking with Spring Boot &amp; Groovy
+Samples and snippets for quick hacking with Spring Boot &amp; Groovy using Spring Boot CLI.
 
+## Before you start
+
+- [Install Spring Boot CLI](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started-installing-spring-boot.html#getting-started-installing-the-cli)
+- [Using the CLI](https://docs.spring.io/spring-boot/docs/current/reference/html/cli-using-the-cli.html)
+
+## Samples list
 - [Spring AMQP Listener](https://github.com/maciejwalkowiak/spring-boot-groovy-samples/blob/master/spring-amqp-listener/app.groovy)
