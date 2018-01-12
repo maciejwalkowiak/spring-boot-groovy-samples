@@ -18,5 +18,5 @@ Additionally you have to specify *Spring AMQP* properties required to connect to
 Example:
 
 ```
-spring run rabbit.groovy -- --exchange.name=<exchange name> --exchange.type=<topic|direct|fanout> --routing.key=<routing key> --spring.rabbitmq.host=<host> --spring.rabbitmq.username=<username> --spring.rabbitmq.password=<password>
+spring run app.groovy -- --exchange.name=<exchange name> --exchange.type=<topic|direct|fanout> --routing.key=<routing key> --spring.rabbitmq.host=<host> --spring.rabbitmq.username=<username> --spring.rabbitmq.password=<password>
 ```
